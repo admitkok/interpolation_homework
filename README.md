@@ -1,7 +1,7 @@
 # Interpolation Homework
 
 ## How to Use:
-### clone repository
-### `cd interpolation`
-### `npm i`
-### `npm start`
+### 1. clone repository
+### 2. `cd interpolation`
+### 3. `npm i`
+### 4. `npm start`
